@@ -4,6 +4,9 @@
 - 💞️ I’m looking to collaborate on VR development and/or HCI Research on the same topic. I am actively looking for a job to start from October 2024, so feel free to contact me for job opportunities.
 - 📫 How to reach me alreylop@gmail.com (main) | alejandro.rey@uc3m.es
 
+
+![topics](https://github.com/user-attachments/assets/e5dfe348-144f-4f2c-9558-a8676565bb2a)
+
 <!---
 coredamnwork/coredamnwork is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
