@@ -22,7 +22,7 @@
 
 <!--I am actively looking for a job to start from **October 2024**, so feel free to contact me for job opportunities. -->
 
-[<img src="https://github.com/user-attachments/assets/aacc594f-5b86-4b67-8d95-d58187db66a4" width="auto" height="50"/>](https://github.com/user-attachments/files/16817404/Sept2024CV_Research.pdf)
+<!--[<img src="https://github.com/user-attachments/assets/aacc594f-5b86-4b67-8d95-d58187db66a4" width="auto" height="50"/>](https://github.com/user-attachments/files/16817404/Sept2024CV_Research.pdf) -->
 
 <!--<h3 align="left">Languages and Tools:</h3> -->
 <!-- <p align="center">Unity C# Javascript JEST MongoDB MySQL HTML CSS SASS  SpringBoot JavaEE  Webdev concepts: Websockets, JWT, cookies, REST, Python, Photoshop Illustrator </p>-->
