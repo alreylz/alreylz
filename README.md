@@ -13,10 +13,10 @@
  <p align="left">💞️ I’m looking to collaborate on VR development and/or HCI Research on the same topic. </p>
 <p align="left"> 📫 How to reach me <a href="mailto:alreylop@gmail.com">alreylop@gmail.com</a>  (main) | <a href="mailto:alejandro.rey@uc3m.es">alejandro.rey@uc3m.es</a></p>
  
-<p align="left"">
+<!--<p align="left"">
  <img src="https://github.com/user-attachments/assets/cf4cc614-93d4-45f2-a791-a0269bde7bfa" width="auto" height="50"/>  
 
-</p>
+</p>-->
 
 
 
