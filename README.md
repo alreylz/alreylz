@@ -18,6 +18,48 @@
 
 </p>-->
 
+## 🚀 Featured Projects
+
+### 5G indoor measurements mapper
+A fullstack application to plot indoor 5G measurements in a 2D world map to perform estimations and of 5G signal metrics interactively.
+> Developed during my work at [EspacioSOA SL](https://espaciosoa.com/)
+
+<p align="center">
+<img src="https://github.com/alreylz/5G-mapper-backend/blob/master/.showcase/choose-property.png?raw=true" align="center" width="40%" alt="Responsive demo"/>
+</p>
+
+
+
+### AR-5G-mapper
+An Augmented Reality Android application to perform 5G measurements of indoor environments combining geolocation data and ARCore position information. Users can trigger measurements on an area and walk around such area  while they see the points in which measurements were performed to then send the measurements to a backend application that centralizes all recorded measurements.
+
+> Developed during my work at [EspacioSOA SL](https://espaciosoa.com/)
+
+<p align="center">
+<img src="https://github.com/alreylz/AR-5G-mapper/raw/master/.showcase/measureVideo.gif" width="20%"   alt="Responsive demo"/>
+</p>
+
+
+###  PI-5G-measurements
+A web-based Raspberry Pi application that measures 5G connectivity on demand and communicates with a backend to save and combine measurements with those made via Android Devices.
+> Developed during my work at [EspacioSOA SL](https://espaciosoa.com/)
+<p align="center">
+<img src="https://github.com/alreylz/pi-5G-measurements/raw/master/.showcase/raspi-demo.gif" align="center" width="40%" alt="Responsive demo"/>
+</p>
+
+
+### Japan-Mapper
+Hobby project that takes all the collaboratively curated planning for a holiday trip to Japan and displays in an interactive manner for all friends going to the trip. The project is deployed at [japan.alreylz.me](https://japan.alreylz.me/) requiring authentication and mail whitelisting from me to use (feel free to email me). It leverages the Google Sheets API and Leaflet to display information over the map. Allows filtering and displays images of the main interest points to visit.
+<p align="center">
+<img src="https://github.com/alreylz/Japan-25/blob/master/.showcase/japan-mapper.gif" align="center" width="40%" alt="Responsive demo"/>
+</p>
+
+### Spotify Playground
+Spotify API wrappers and base local website I use for personal automation & recommendation of sick music . Music Nerd stuff 🩵🎶🎶 
+
+
+
+
 
 
 <!--I am actively looking for a job to start from **October 2024**, so feel free to contact me for job opportunities. -->
