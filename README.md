@@ -1,5 +1,5 @@
 
-<h1 align="center"> Alejandro Rey  <img src="https://github.com/user-attachments/assets/560e5b84-49de-4998-8068-d18f4382c78e" height="35px" />
+<h1 align="center"> Alejandro Rey  <img src="https://github.com/user-attachments/assets/560e5b84-49de-4998-8068-d18f4382c78e" height="35px" width="35px"/>
 </h1> 
 
 <p align="center">
