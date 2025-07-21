@@ -90,7 +90,7 @@
 <div align="center" >
  <br/>
  <img src="https://github.com/user-attachments/assets/0f587947-0cfa-49b1-82b4-cf89be69b742"  width="140px" height="auto" /> <br/>
-  <h3>  Mundo Justo - ONG user management fullstack aplication</h3>
+  <h3>  Mundo Justo - ONG user management fullstack application</h3>
  <br/>
 </div>
 
