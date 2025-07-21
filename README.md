@@ -3,7 +3,7 @@
 </h1> 
 
 <p align="center">
- <img src="https://github.com/user-attachments/assets/e5dfe348-144f-4f2c-9558-a8676565bb2a" width="auto" height="150""/>
+ <img src="https://github.com/user-attachments/assets/e5dfe348-144f-4f2c-9558-a8676565bb2a" width="auto" height="200"/>
 </p>
 
 
@@ -67,6 +67,15 @@
  <br/>
  The project is deployed at <a href="https://japan.alreylz.me/" >japan.alreylz.me </a> requiring authentication and mail whitelisting from me to use (feel free to email me). It leverages the Google Sheets API and Leaflet to display information over the map. Allows filtering and displays images of the main interest points to visit.
  <br/>  <br/>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="Google Drive" />
+  <img src="https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=Leaflet&logoColor=white" alt="Leaflet" />
+</p>
+
+ 
+ 
 </p>
 
 
@@ -80,22 +89,94 @@
 
 <div align="center" >
  <br/>
- <img src="https://github.com/user-attachments/assets/0f587947-0cfa-49b1-82b4-cf89be69b742"  width="300px" height="auto" /> <br/>
+ <img src="https://github.com/user-attachments/assets/0f587947-0cfa-49b1-82b4-cf89be69b742"  width="140px" height="auto" /> <br/>
   <h3>  Mundo Justo - ONG user management fullstack aplication</h3>
  <br/>
 </div>
 
 <p align="center">
- <img src="https://github.com/user-attachments/assets/93f582ec-f518-433d-851b-97ffd5b8b990" align="center" width="80%" alt="Responsive demo"/>
+
+ <img src="https://github.com/user-attachments/assets/4f5afc2d-c1dc-420b-89b6-77be049e47b0" align="center" width="80%" alt="Responsive demo"/>
 </p>
  <br/>
 
 <p align="center">
- User management application developed for the ONG <a href="https://www.mundojusto.org/">Mundo Justo</a> <br/> to optimize order to optimize their processes and keep track of the use of their facilities.
+ User management application developed for the ONG <a href="https://www.mundojusto.org/">Mundo Justo</a> to optimize their processes and keep track of the use of their facilities.
+ Developed fully in typescript and with native CSS styles, no libraries.
+ 
+ <br/>
+ <br/> 
+ 
+<p align="center">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" alt="React Router" />
+  <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+</p>
+
+
+</p>
+
+
+
+<br/>
+
+<hr/>
+<br/>
+
+
+<div align="center" >
+ <br/>
+
+ <img  src="https://github.com/user-attachments/assets/7cde5d52-0a50-407c-a02b-fa2bb4de88cd" width="380px" height="auto" /> 
+ <br/>
+  <h3>  MunchFit app website </h3>
+ <br/>
+</div>
+
+
+
+
+<p align="center">
+ <img width="860px" alt="image" src="https://github.com/user-attachments/assets/c3b60b7a-59bc-4bea-abd1-f3eac250a80a" />
+</p>
+ <br/>
+ <p align="center" >
+ <table>
+  <tr>
+    <td align="center">
+<img  src="https://github.com/user-attachments/assets/cb4c2d61-b91d-4fb2-870a-a87e6b1a43f5"/>
+    </td>
+     <td align="center">
+<img  alt="image" src="https://github.com/user-attachments/assets/b149102e-2a0e-414a-9a4b-924151ca42be" />
+ </td>
+  </tr>
+  <tr>
+    <td align="center"> App showcase</td>
+    <td align="center"> Responsive design</td>
+  </tr>
+</p>
+
+
+
+
+<p align="center">
+ MunchFit is a personalized nutrition application designed by nutritionists for people who regularly practice some sport and whose plans are programatically generated from an algorithm designed by nutritionist with health in mind.
+ <br/>
+ I redesigned the advertising website for the app, mainly the hero sections, made it responsive, implemented the multilingual support and a fully featured demo section with CSS animations and the custom radial menus system to show the alternative of dishes for each meal and its possible configurations. This project used 
+ 
+<p align="center">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
+</p>
+
+
  <br/>
  <br/> 
 </p>
-
 
 
 
