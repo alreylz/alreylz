@@ -7,10 +7,14 @@
 </p>
 
 
-<p align="center"> 👋 Hi, I’m Alejandro Rey (@alreylz on the web). I am a BsC. and MsC. in Computer Science based in Madrid, Spain. </p>
+<p align="center"> 👋 Hi, I’m Alejandro Rey (@alreylz on the web). I am a BsC. and MsC. in Computer Science based in Madrid, Spain.
+</p>
  <p align="center">👀 I’m interested in HCI in Immersive Environments (VR/AR/MR) and most of my work has been on research and solo development.</p>
- <p align="center">🌱 I’m currently a PhD student in Computer Science at uc3m (Madrid), working with Unity and studying the impact of multisensory feedback in Immersive Analytics applications. </p>
- <p align="center">💞️ I’m looking to collaborate on VR development and/or HCI Research on the same topic. </p>
+ <p align="center">🌱
+  I am currently working at <a href="https://espaciosoa.com/">Espaciosoa</a> as a Fullstack web developer. A work that I compatibilize with being a  PhD student in Computer Science at uc3m (Madrid), working with Unity and studying the impact of multisensory feedback in Immersive Analytics applications. Pretty all over the place, huh? 
+ 
+ </p>
+ <p align="center">💞️ I am looking for job opportunities in development and possibly its intersection with research. More specifically, I am interested on data visualization in both VR and web environments and/or HCI Research on the same topic. </p>
 <p align="center"> 📫 How to reach me <a href="mailto:alreylop@gmail.com">alreylop@gmail.com</a>  (main) | <a href="mailto:alejandro.rey@uc3m.es">alejandro.rey@uc3m.es</a></p>
  
 <!--<p align="left"">
@@ -27,7 +31,7 @@
   <h3>   InMap - Indoors Signal Mapper Suite 
   </h3>
  <br/>
- Full suite developed during my internship at <a href="https://espaciosoa.com/">Espaciosoa </a>
+ <h4>Full suite developed during my internship at <a href="https://espaciosoa.com/">Espaciosoa </a></h4>
 </div>
 
 
@@ -48,43 +52,6 @@
 
 <hr/>
 
-
-<div align="center" >
- <br/>
- <img src="https://github.com/user-attachments/assets/fa67d572-46ae-4ea3-9361-8fb68d7a8842"  width="50px" height="50px" /> <br/>
-  <h3>  Colibrí Airlines - Trip planning to Japan </h3>
- <br/>
-</div>
-
-
-<p align="center">
- <img src="https://github.com/user-attachments/assets/f3579147-3b71-496d-8d6b-78adbc1940c1" align="center" width="60%" alt="Responsive demo"/>
-</p>
-<br/>
-
-<p align="center">
- Hobby project that takes all the collaboratively curated planning for a holiday trip to Japan and displays in an interactive manner for all friends going to the trip.
- <br/>
- The project is deployed at <a href="https://japan.alreylz.me/" >japan.alreylz.me </a> requiring authentication and mail whitelisting from me to use (feel free to email me). It leverages the Google Sheets API and Leaflet to display information over the map. Allows filtering and displays images of the main interest points to visit.
- <br/>  <br/>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="Google Drive" />
-  <img src="https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=Leaflet&logoColor=white" alt="Leaflet" />
-</p>
-
- 
- 
-</p>
-
-
-
-
-<br/>
-
-<hr/>
-<br/>
 
 
 <div align="center" >
@@ -133,6 +100,7 @@
  <img  src="https://github.com/user-attachments/assets/7cde5d52-0a50-407c-a02b-fa2bb4de88cd" width="380px" height="auto" /> 
  <br/>
   <h3>  MunchFit app website </h3>
+  <h4>Developed during my internship at <a href="https://espaciosoa.com/">Espaciosoa </a></h4>
  <br/>
 </div>
 
@@ -140,7 +108,7 @@
 
 
 <p align="center">
- <img width="860px" alt="image" src="https://github.com/user-attachments/assets/c3b60b7a-59bc-4bea-abd1-f3eac250a80a" />
+ <img width="670px" alt="image" src="https://github.com/user-attachments/assets/c3b60b7a-59bc-4bea-abd1-f3eac250a80a" />
 </p>
  <br/>
  <p align="center" >
@@ -157,12 +125,14 @@
     <td align="center"> App showcase</td>
     <td align="center"> Responsive design</td>
   </tr>
+ </table>
 </p>
 
 
 
 
 <p align="center">
+ 
  MunchFit is a personalized nutrition application designed by nutritionists for people who regularly practice some sport and whose plans are programatically generated from an algorithm designed by nutritionist with health in mind.
  <br/>
  I redesigned the advertising website for the app, mainly the hero sections, made it responsive, implemented the multilingual support and a fully featured demo section with CSS animations and the custom radial menus system to show the alternative of dishes for each meal and its possible configurations. This project used 
@@ -177,6 +147,77 @@
  <br/>
  <br/> 
 </p>
+
+
+
+<div align="center" >
+ <br/>
+ <img src="https://github.com/user-attachments/assets/fa67d572-46ae-4ea3-9361-8fb68d7a8842"  width="50px" height="50px" /> <br/>
+  <h3>  Colibrí Airlines - Trip planning to Japan </h3>
+ <br/>
+</div>
+
+
+<p align="center">
+ <img src="https://github.com/user-attachments/assets/f3579147-3b71-496d-8d6b-78adbc1940c1" align="center" width="60%" alt="Responsive demo"/>
+</p>
+<br/>
+
+<p align="center">
+ Hobby project that takes all the collaboratively curated planning for a holiday trip to Japan and displays in an interactive manner for all friends going to the trip.
+ <br/>
+ The project is deployed at <a href="https://japan.alreylz.me/" >japan.alreylz.me </a> requiring authentication and mail whitelisting from me to use (feel free to email me). It leverages the Google Sheets API and Leaflet to display information over the map. Allows filtering and displays images of the main interest points to visit.
+ <br/>  <br/>
+
+
+<p align="center">
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="Google Drive" />
+  <img src="https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=Leaflet&logoColor=white" alt="Leaflet" />
+</p>
+</p>
+<br/>
+
+<hr/>
+<br/>
+
+
+
+<div align="center" >
+ <br/>
+<img src="https://github.com/alreylz/GuitarBassClassificationCNN/blob/master/media/examples.png?raw=true"  width="400px" height="auto" /> <br/>
+  <h3>  Guitar vs Bass classifier </h3>
+  <h4> <a href="https://github.com/alreylz/GuitarBassClassificationCNN"> See repo </a> </h4>
+ 
+ <br/>
+</div>
+
+
+
+
+<p align="center">
+This is a Convolutional Neural Network project carried out for the Automated Programming course of the MsC. in Computer Science and Techonology at Universidad Carlos III de Madrid The project consists mainly of two Google Colab Notebooks, one for the web-scraper and another for the CNN. <br/>
+The scraper Thomann_Web_Scraping_coredamnwork.ipynb is probably deprecated by now just because of the changes that that Thomann's website might have suffered. This script makes use of the requests and BeautifulSoup libraries. The resulting dataset contains 8000 images of bass and guitars (150x150 RGB, thumbnail-like). There is an imbalance on the number of guitars (6924) vs bass images (1076).  <br/>
+The CNNs is implemented in Pytorch (see Bass&Guitar_Convolutional_Net_coredamnwork.ipynb) and everything was tested on top of Google Colab/Drive File System. You can find the full report of the project and the final presentation in the /docs folder (in Spanish though).
+ 
+ <br/>  <br/>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="Google Drive" />
+  <img src="https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=Leaflet&logoColor=white" alt="Leaflet" />
+</p>
+
+ 
+ 
+</p>
+
+<br/>
+
+<hr/>
+<br/>
+
+
 
 
 
