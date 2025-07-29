@@ -182,7 +182,6 @@
 <br/>
 
 
-
 <div align="center" >
  <br/>
 <img src="https://github.com/alreylz/GuitarBassClassificationCNN/blob/master/media/examples.png?raw=true"  width="400px" height="auto" /> <br/>
@@ -197,15 +196,16 @@
 
 <p align="center">
 This is a Convolutional Neural Network project carried out for the Automated Programming course of the MsC. in Computer Science and Techonology at Universidad Carlos III de Madrid The project consists mainly of two Google Colab Notebooks, one for the web-scraper and another for the CNN. <br/>
-The scraper Thomann_Web_Scraping_coredamnwork.ipynb is probably deprecated by now just because of the changes that that Thomann's website might have suffered. This script makes use of the requests and BeautifulSoup libraries. The resulting dataset contains 8000 images of bass and guitars (150x150 RGB, thumbnail-like). There is an imbalance on the number of guitars (6924) vs bass images (1076).  <br/>
+The scraper Thomann_Web_Scraping_coredamnwork.ipynb is probably deprecated by now just because of the changes that that Thomann's website might have suffered. This script makes use of the requests and BeautifulSoup libraries. The resulting <a href="https://drive.google.com/drive/folders/12QiXJj9cZJzijI63JD5-70n2o_QhvOj5?usp=sharing"> dataset </a> contains 8000 images of bass and guitars (150x150 RGB, thumbnail-like). There is an imbalance on the number of guitars (6924) vs bass images (1076).  <br/>
 The CNNs is implemented in Pytorch (see Bass&Guitar_Convolutional_Net_coredamnwork.ipynb) and everything was tested on top of Google Colab/Drive File System. You can find the full report of the project and the final presentation in the /docs folder (in Spanish though).
  
  <br/>  <br/>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="JavaScript" />
+ <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" alt="Pytorch" />
   <img src="https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="Google Drive" />
-  <img src="https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=Leaflet&logoColor=white" alt="Leaflet" />
+ <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
 </p>
 
  
