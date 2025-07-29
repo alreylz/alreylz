@@ -219,14 +219,34 @@ The CNNs is implemented in Pytorch (see Bass&Guitar_Convolutional_Net_coredamnwo
 
 
 
+<section id="CHIC-Farmlab" >
+ 
+ <div align="center" class="header-and-logos" >
+  <br/>
+  <img  height="3474" alt="image" src="https://github.com/user-attachments/assets/ca201ab2-d784-4ee9-bbd2-2491b25c42a4" width="200px" height="auto"/> <br/>
+   <h3> CHIC-Farmlab </h3>
+   <h4> <a href="https://github.com/alreylz/CHIC-Farm-Lab"> See repo </a> </h4>
+  
+  <br/>
+ </div>
+ 
+ <p align="center" class="description">
+ Augmented Reality Game targeted at Hololens 1/2 designed to teach adolescents about NPBTs (New Plant Breeding Techniques editing). 
+  <br/>
+  The game was part of the dissemination program involved in the <a href="https://chicproject.eu/">chic.eu</a> project. CHIC was a project that revolved around the Chicory plant, which has the very characteristic flower that you can see in all its branding and subordinate projects. <br/>
+ I developed the game prototype during my period as Research Assistant at DEI Interactive Systems I designed everything in the game, specifically all sprites and 3D objects (except for the insects and weather particles). Telmo Zarraonandia Ayo contributed to the development and migration of the application to Hololens 2.
+  <br/>  <br/>
+ <p align="center">
+   <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" alt="C#"/>
+   <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" alt="Blender" />
+   <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" />
+ </p>
+ </p>
+ 
+</section>
 
-
-<!--### Spotify Playground -->
-<!-- Spotify API wrappers and base local website I use for personal automation & recommendation of sick music . Music Nerd stuff 🩵🎶🎶  -->
-
-
-
-
+<hr/>
+<br/>
 
 
 <!--I am actively looking for a job to start from **October 2024**, so feel free to contact me for job opportunities. -->
