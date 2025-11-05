@@ -57,34 +57,42 @@
 
 
 <div align="center" >
-<table>
+
+
+ <img src="https://github.com/user-attachments/assets/0f587947-0cfa-49b1-82b4-cf89be69b742"  width="140px" height="auto" /> <br/>
+  <h3>  Mundo Justo - User and facilty management</h3>
+ <br/>
+</div>
+
+
+<table align="center">
   <tr>
     <td align="center">
       <img src="https://github.com/user-attachments/assets/9091f270-019b-453a-a027-ca64c1f3385a" width="80%" alt="Mundo justo demo global" />
     </td>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/92351243-abef-4cef-bcc8-333c9dfe49c1" width="80%" alt="Gestión de fotos en la aplicación" />
+      <img src="./.showcase/DemoGestiónFotoDePerfil-optimized.gif" width="80%" alt="Gestión de fotos en la aplicación" />
     </td>
   </tr>
   <tr>
-    <td align="center">🌍 <b>Mundo justo demo global</b></td>
-    <td align="center">🖼️ <b>Gestión de fotos en la aplicación</b></td>
+    <td align="center"><b>Mundo justo deployed version</b></td>
+    <td align="center">🖼️ <b>Picture management</b></td>
   </tr>
   <tr>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/ce38b2d7-e7b1-4fd3-802a-03e819413db8" width="80%" alt="Fuzzy search" />
+      <img src="./.showcase/ImprovedSearch-optimized.gif" width="80%" alt="User search" />
     </td>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/7b64b585-bb10-477e-972d-9c59d742572a" width="80%" alt="Fuzzy search uso instalaciones" />
+      <img src="./.showcase/SearchUsoInstalaciones-optimized.gif" width="80%" alt="Search search uso instalaciones" />
     </td>
   </tr>
   <tr>
-    <td align="center">🔍 <b>Fuzzy search</b></td>
-    <td align="center">🏢 <b>Fuzzy search — uso de instalaciones</b></td>
+    <td align="center">🔍 <b>Users' search</b></td>
+    <td align="center">🔍 <b>ONG Facilities search</b></td>
   </tr>
   <tr>
     <td align="center" colspan="2">
-      <img src="https://github.com/user-attachments/assets/dc5c649d-21b5-4a85-8095-9d6b4e62c32d" width="80%" alt="Flujo alta" />
+      <img src="./.showcase/flujo-alta-optimized.gif" width="80%" alt="Flujo alta" />
     </td>
   </tr>
   <tr>
