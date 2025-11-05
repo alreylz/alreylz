@@ -69,6 +69,23 @@
  <br/>
 
 <p align="center">
+ <img src="https://github.com/user-attachments/assets/92351243-abef-4cef-bcc8-333c9dfe49c1"   width="80%" alt="Gestión de fotos en la aplicación"/>
+</p>
+ <br/>
+
+<p align="center">
+ <img src="https://github.com/user-attachments/assets/ce38b2d7-e7b1-4fd3-802a-03e819413db8"   width="80%" alt="Fuzzy search"/>
+</p>
+ <br/>
+
+ <p align="center">
+ <img src=" https://github.com/user-attachments/assets/7b64b585-bb10-477e-972d-9c59d742572a"   width="80%" alt="Fuzzy search uso instalaciones"/>
+</p>
+ <br/>
+
+
+
+<p align="center">
 <a href="https://www.mundojusto.org/">Mundo Justo</a> is an ONG focused on providing help to homeless people, which goes from facilitaing them a shower or a place to sleep at night, to legal and psychological support. <br/>
  I developed this user management application to optimize their processes and keep track of the use of their facilities and resources.
  Developed fully in Typescript and with native CSS styles, no libraries, 
@@ -222,7 +239,7 @@ The CNNs is implemented in Pytorch (see Bass&Guitar_Convolutional_Net_coredamnwo
  
  <div align="center" class="header-and-logos" >
   <br/>
-  <img  height="3474" alt="image" src="https://github.com/user-attachments/assets/ca201ab2-d784-4ee9-bbd2-2491b25c42a4" width="200px" height="auto"/> <br/>
+  <img   alt="image" src="https://github.com/user-attachments/assets/ca201ab2-d784-4ee9-bbd2-2491b25c42a4" width="200px" height="auto"/> <br/>
    <h3> CHIC-Farmlab </h3>
    <h4> <a href="https://github.com/alreylz/CHIC-Farm-Lab"> See repo </a> </h4>
   
