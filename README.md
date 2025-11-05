@@ -61,7 +61,9 @@
 
  <img src="https://github.com/user-attachments/assets/0f587947-0cfa-49b1-82b4-cf89be69b742"  width="140px" height="auto" /> <br/>
   <h3>  Mundo Justo - User and facilty management</h3>
+ <a href="https://www.mundojusto.org/">Mundo Justo</a> is an ONG focused on providing help to homeless people, which goes from facilitaing them a shower or a place to sleep at night, to legal and psychological support. <br/>
  <br/>
+
 </div>
 
 
@@ -71,7 +73,7 @@
       <img src="https://github.com/user-attachments/assets/9091f270-019b-453a-a027-ca64c1f3385a" width="80%" alt="Mundo justo demo global" />
     </td>
     <td align="center">
-      <img src="./.showcase/DemoGestiónFotoDePerfil-optimized.gif" width="80%" alt="Gestión de fotos en la aplicación" />
+      <img src="./.showcase/mundo_justo/DemoGestiónFotoDePerfil-optimized.gif" width="80%" alt="Gestión de fotos en la aplicación" />
     </td>
   </tr>
   <tr>
@@ -80,23 +82,23 @@
   </tr>
   <tr>
     <td align="center">
-      <img src="./.showcase/ImprovedSearch-optimized.gif" width="80%" alt="User search" />
+      <img src="./.showcase/mundo_justo/ImprovedSearch-optimized.gif" width="90%" alt="User search" />
     </td>
     <td align="center">
-      <img src="./.showcase/SearchUsoInstalaciones-optimized.gif" width="80%" alt="Search search uso instalaciones" />
+      <img src="./.showcase/mundo_justo/SearchUsoInstalaciones-optimized.gif" width="90%" alt="Search search uso instalaciones" />
     </td>
   </tr>
   <tr>
-    <td align="center">🔍 <b>Users' search</b></td>
+    <td align="center">🔍 <b>Search of users</b></td>
     <td align="center">🔍 <b>ONG Facilities search</b></td>
   </tr>
   <tr>
     <td align="center" colspan="2">
-      <img src="./.showcase/flujo-alta-optimized.gif" width="80%" alt="Flujo alta" />
+      <img src="./.showcase/mundo_justo/flujo-alta-optimized.gif" width="300px" height="auto" alt="Flujo alta" />
     </td>
   </tr>
   <tr>
-    <td align="center" colspan="2">⚙️ <b>Flujo alta</b></td>
+    <td align="center" colspan="2">⚙️ <b>User creation example flow</b></td>
   </tr>
 </table>
 
@@ -106,7 +108,6 @@
 
 
 <p align="center">
-<a href="https://www.mundojusto.org/">Mundo Justo</a> is an ONG focused on providing help to homeless people, which goes from facilitaing them a shower or a place to sleep at night, to legal and psychological support. <br/>
  I developed this user management application to optimize their processes and keep track of the use of their facilities and resources.
  Developed fully in Typescript and with native CSS styles, no libraries, 
  I engineered the whole thing, and coded both frontend and backend APIS to handle a variety of use cases, such as single users or families, implementing advanced search capabilities and 3 types of users (ONG attendees, volunteers and administrators). I also handled all the detail of the delivery of this project, from DNS configuration to <b>database migration and conversion from their legacy system (Excel sheets)</b> to the MongoDB model I designed.
@@ -157,11 +158,22 @@
     <td align="center"> App showcase</td>
     <td align="center"> Responsive design</td>
   </tr>
+
+  <tr>
+    <td align="center" colspan="2">
+      <img src="./.showcase/munchfit/vacaciones_system_showcase-optimized.gif" width="300px" height="auto" alt="COmplex logic UI" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2">⚙️ <b>Complex Custom UI and logic for managing availability of Nutritionists </b></td>
+  </tr>
  </table>
 </p>
  <br/>
   I fully redesigned the advertising website for the app, made it responsive and more attractive (creating clearer structure and nice hero sections with call to action buttons). I implemented the multilingual support (es, en and fr) and a <b>fully featured app demo section</b> (which I'm proudest about) with CSS animations and the <b>custom radial menu system</b> to show the alternative of dishes for each meal and its possible configurations. This project required me to understand deeply how the company handled recipes in the backend and I had to merge backend information to reconstruct all the recipes shown in the web (so yes, they are actual recipes from the application).
- 
+  <br/>
+  <br/>
+  In the private area of the website, I extended the content management system with multimedia capabilities, and designed from scratch a reactive availability management system for independent nutritionists to customize their working hours with very high granularity.
 </div>
 
 
