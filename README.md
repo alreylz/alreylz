@@ -57,31 +57,43 @@
 
 
 <div align="center" >
- <br/>
- <img src="https://github.com/user-attachments/assets/0f587947-0cfa-49b1-82b4-cf89be69b742"  width="140px" height="auto" /> <br/>
-  <h3>  Mundo Justo - User and facilty management</h3>
- <br/>
-</div>
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/9091f270-019b-453a-a027-ca64c1f3385a" width="80%" alt="Mundo justo demo global" />
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/92351243-abef-4cef-bcc8-333c9dfe49c1" width="80%" alt="Gestión de fotos en la aplicación" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">🌍 <b>Mundo justo demo global</b></td>
+    <td align="center">🖼️ <b>Gestión de fotos en la aplicación</b></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/ce38b2d7-e7b1-4fd3-802a-03e819413db8" width="80%" alt="Fuzzy search" />
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/7b64b585-bb10-477e-972d-9c59d742572a" width="80%" alt="Fuzzy search uso instalaciones" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">🔍 <b>Fuzzy search</b></td>
+    <td align="center">🏢 <b>Fuzzy search — uso de instalaciones</b></td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2">
+      <img src="https://github.com/user-attachments/assets/dc5c649d-21b5-4a85-8095-9d6b4e62c32d" width="80%" alt="Flujo alta" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2">⚙️ <b>Flujo alta</b></td>
+  </tr>
+</table>
 
-<p align="center">
- <img src="https://github.com/user-attachments/assets/9091f270-019b-453a-a027-ca64c1f3385a"   width="80%" alt="Mundo justo demo"/>
-</p>
- <br/>
 
-<p align="center">
- <img src="https://github.com/user-attachments/assets/92351243-abef-4cef-bcc8-333c9dfe49c1"   width="80%" alt="Gestión de fotos en la aplicación"/>
-</p>
- <br/>
-
-<p align="center">
- <img src="https://github.com/user-attachments/assets/ce38b2d7-e7b1-4fd3-802a-03e819413db8"   width="80%" alt="Fuzzy search"/>
-</p>
- <br/>
-
- <p align="center">
- <img src=" https://github.com/user-attachments/assets/7b64b585-bb10-477e-972d-9c59d742572a"   width="80%" alt="Fuzzy search uso instalaciones"/>
-</p>
- <br/>
+ 
 
 
 
