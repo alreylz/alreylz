@@ -32,7 +32,7 @@
   </h3>
   <p> <b>InMap</b> is a Software tool for indoors heatmapping that provides quality results at an affordable price, for arquitects, indoors planners and signal repeaters.</p>
   <img src="https://espaciosoa.com/products/InMap/heroImage.png" width="90%" />
- <h4>Full suite developed during my internship at <a href="https://espaciosoa.com/">Espaciosoa </a></h4>
+ <h4>Full suite developed (completely on my own) during my internship at <a href="https://espaciosoa.com/">Espaciosoa </a></h4>
 
 </div>
 
