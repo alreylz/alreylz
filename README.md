@@ -20,11 +20,28 @@
 
 
 
- 
-<!--<p align="left"">
- <img src="https://github.com/user-attachments/assets/cf4cc614-93d4-45f2-a791-a0269bde7bfa" width="auto" height="50"/>  
+ <hr/>
+<br/><br>
+<h2 align="center"> 🔍🎓 Latest Research <br><br></h2>
+<div align="center" >
+  <!--<img src="./.showcase/other/vrjounal.webp"  width="70px" height="auto" />-->
+  <br/>
+  <h3> The more the better? Multisensory redundant mappings to convey information in abstract visualizations (2025) <br/> <a href="https://link.springer.com/article/10.1007/s10055-025-01257-3">📄 See full paper </a>
+  </h3>
+  <img src="./.showcase/research/ReyEtAl2025.jpg"  height="400px" />
+  
+  <p> The paper explores on the use of multisensory channels (👁️🫱 🎼) for data codification in Immersive Analytics 🥽 📊 , exploring the impacts, affordances and observed implications of leveraging different sensory mappings and its combinations (visual plus audio and/or vibration) when dealing with a abstract visualizations. We discuss both performance and qualitative observations of study involving 52 participants 👥 , and reflect on how multisensory redundancy could be applied in future designs.</p>
 
-</p>-->
+
+</div>
+
+
+
+
+
+
+
+</p>
 <hr/>
 <br/><br>
 <h2 align="center"> 🚀 Featured Projects <br><br></h2>
