@@ -9,13 +9,17 @@
 
 <p align="center"> 👋 Hi, I’m Alejandro Rey (@alreylz on the web). I am a BsC. and MsC. in Computer Science based in Madrid, Spain.
 </p>
- <p align="center">👀 I’m interested in HCI in Immersive Environments (VR/AR/MR) and most of my work has been on research and solo development.</p>
+ <p align="center">👀 I’m interested in HCI in Immersive Environments (VR/AR/MR) and most of my work has been on research and development for these technologies and the web.</p>
  <p align="center">🌱
-  I am currently working at <a href="https://espaciosoa.com/">Espaciosoa</a> as a Fullstack web developer. A work that I compatibilize with being a  PhD student in Computer Science at uc3m (Madrid), working with Unity and studying the impact of multisensory feedback in Immersive Analytics applications. Pretty all over the place, huh? 
- 
+  I am last year PhD student in Computer Science at uc3m (Madrid), working with Unity and studying the impact of multisensory feedback in Immersive Analytics applications.
+  I was previously working at <a href="https://espaciosoa.com/">Espaciosoa</a> as a Fullstack web developer and have done several solo professional development work regarding web and web-dev during such period. Pretty all over the place, huh? 
  </p>
  <p align="center">💞️ I am looking for job opportunities in development and possibly its intersection with research. More specifically, I am interested on data visualization in both VR and web environments and/or HCI Research on the same topic. </p>
-<p align="center"> 📫 How to reach me <a href="mailto:alreylop@gmail.com">alreylop@gmail.com</a>  (main) | <a href="mailto:alejandro.rey@uc3m.es">alejandro.rey@uc3m.es</a></p>
+<p align="center"> 📫 How to reach me <a href="mailto:alreylop@gmail.com">alreylop@gmail.com</a>  (main) </p>
+
+
+
+
  
 <!--<p align="left"">
  <img src="https://github.com/user-attachments/assets/cf4cc614-93d4-45f2-a791-a0269bde7bfa" width="auto" height="50"/>  
