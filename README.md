@@ -1,11 +1,17 @@
 
-<h1 align="center"> Alejandro Rey  <img src="https://github.com/user-attachments/assets/560e5b84-49de-4998-8068-d18f4382c78e" height="35px" width="35px"/>
+
+<h1 align="center"> Alejandro Rey López  <img src="https://github.com/user-attachments/assets/560e5b84-49de-4998-8068-d18f4382c78e" height="35px" width="auto"/>
 </h1> 
+
+
+
 
 <p align="center">
  <img src="https://github.com/user-attachments/assets/e5dfe348-144f-4f2c-9558-a8676565bb2a" width="auto" height="200"/>
 </p>
-
+<p align="center">
+ <img src="./.showcase/me/me.png" width="auto" height="200px" width="auto"/>
+</p>
 
 <p align="center"> 👋 Hi, I’m Alejandro Rey (@alreylz on the web). I am a BsC. and MsC. in Computer Science based in Madrid, Spain.
 </p>
@@ -61,7 +67,7 @@
 </p>
 <hr/>
 <br/><br>
-<h2 align="center"> 🚀 Featured Projects <br><br></h2>
+<h2 align="center"> 🚀 Portfolio Projects <br><br></h2>
 
 
 <div align="center" >
