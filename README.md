@@ -23,6 +23,23 @@
  <hr/>
 <br/><br>
 <h2 align="center"> 🔍🎓 Latest Research <br><br></h2>
+
+<div align="center" >
+  <!--<img src="./.showcase/other/vrjounal.webp"  width="70px" height="auto" />-->
+  <br/>
+  <h3> Act on the present and peek into the past: A system for Asynchronous Immersive Analytics Collaboration (2026) <br/> <a href="https://doi.org/10.1145/3811427.3811516">📄 See poster paper </a>
+  <!-- <a href="https://github.com/diegonavassan/async_collaboration_tfg"> See repo </a> -->
+  </h3>
+  <div background="white">
+  <img src="./.showcase/research/ReyNavas2026.png" background="white"  width="600px" max-height="150px" />
+  </div>
+  <p> This poster paper proposes a system prototype for collaborative IA at supporting asynchronous collaboration and visualization change versioning within virtual space. The prototype focuses on providing accesss to a replay system of changes and analyst actions that helps collaborators trace back decisions and obtain a better understanding of how conclusions are made (knowledge provenance).</p>
+
+</div>
+
+
+
+
 <div align="center" >
   <!--<img src="./.showcase/other/vrjounal.webp"  width="70px" height="auto" />-->
   <br/>
@@ -294,8 +311,11 @@ The CNNs is implemented in Pytorch (see Bass&Guitar_Convolutional_Net_coredamnwo
   <br/>
   <img   alt="image" src="https://github.com/user-attachments/assets/ca201ab2-d784-4ee9-bbd2-2491b25c42a4" width="200px" height="auto"/> <br/>
    <h3> CHIC-Farmlab </h3>
-   <h4> <a href="https://github.com/alreylz/CHIC-Farm-Lab"> See repo </a> </h4>
-  
+   
+  <p align="center">
+  <img src="./.showcase/other/CHIC-Farm.gif" background="white"  width="600px" max-height="150px" />
+  </p>
+  <h4> <a href="https://github.com/alreylz/CHIC-Farm-Lab"> See repo </a> </h4>
   <br/>
  </div>
  
@@ -318,15 +338,53 @@ The CNNs is implemented in Pytorch (see Bass&Guitar_Convolutional_Net_coredamnwo
 <br/>
 
 
+
+<section id="BachelorThesis" >
+ 
+ <div align="center" class="header-and-logos" >
+  <br/>
+  <img src="./.showcase/other/BachelorThesisIcon.png"  width="150px" height="auto" /> <br/>
+  <img /> <br/>
+   <h3> Immersive Tangible Drums </h3>
+   <!--<h4> <a href="https://github.com/alreylz/CHIC-Farm-Lab"> See repo </a> </h4> -->
+  
+  <br/>
+ </div>
+
+ <p align="center">
+  <img  src="./.showcase/other/BachelorThesis.gif" alt="image"  width="700px" height="auto" />
+  </p>
+ 
+ <p align="center" class="description">
+    Bachelor thesis project doing research work (unpublished) in the New Instruments for Musical Expression (NIME) area. This project was a funtional prototype that combined the Immesive (AR/VR) paradigm with tangible interfaces to play the drums allowing to obtain physical feedback (very important for drummers) while allowing other immersive visual feedback and sound. 
+  <br/>
+  
+  <br/>  
+ <p align="center">
+   <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" alt="C#"/>
+   <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" alt="Blender" />
+   <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" />
+   <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt="Arduino" />
+ </p>
+ </p>
+ 
+</section>
+
+<hr/>
+<br/>
+
+
+
+
+
+
+
+
+
+
 <!--I am actively looking for a job to start from **October 2024**, so feel free to contact me for job opportunities. -->
 
 <!--[<img src="https://github.com/user-attachments/assets/aacc594f-5b86-4b67-8d95-d58187db66a4" width="auto" height="50"/>](https://github.com/user-attachments/files/16817404/Sept2024CV_Research.pdf) -->
 
-<!--<h3 align="left">Languages and Tools:</h3> -->
-<!-- <p align="center">Unity C# Javascript JEST MongoDB MySQL HTML CSS SASS  SpringBoot JavaEE  Webdev concepts: Websockets, JWT, cookies, REST, Python, Photoshop Illustrator </p>-->
 
 
-<!---
-coredamnwork/coredamnwork is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
